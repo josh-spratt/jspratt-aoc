@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-aoc_2018/2018_input/
+josh_22/input_files/*
+kevin_22/input_files/*
